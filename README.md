@@ -6,6 +6,8 @@ This repository features advanced T-SQL queries and analytics models built on **
 I used the AdventureWorks sample databases:
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms
 
+Use Visual Studio Code to connect to the database and run code.
+
 ---
 
 ## Project Modules & Core Capabilities
